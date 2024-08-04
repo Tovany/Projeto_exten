@@ -1,2 +1,1 @@
-<p>Este repositório tem como objetivo armazenar todos os códigos, exemplos, usados nas aulas para que os alunos possam revisar, fazer exercícios e aperfeiçoar sua prática no python.</p>
-
+<p>Este repositório tem como objetivo armazenar todos os códigos usados em aula, exemplos para que os alunos possam revisar, aplicar e aprender o que foi feito em aula.</p>
